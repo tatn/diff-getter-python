@@ -318,7 +318,7 @@ wheels = [
 
 [[package]]
 name = "diff-getter"
-version = "0.1.15"
+version = "0.1.17"
 source = { editable = "." }
 
 [package.dev-dependencies]
